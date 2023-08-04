@@ -35,13 +35,12 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 <!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Screenshots
 
-(./Assets/Screenshot 2023-08-04 001332.png)
-(./Assets/being-saved-to-localstorage)
-
+![Screenshot of the page with the correct time](./Assets/images/Screenshot%202023-08-04%20001332.png)
+![The screen is showing that the schedule is storing in the localstorage](./Assets/images/being-saved-to-localstorage.png)
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
